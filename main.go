@@ -1,7 +1,7 @@
 package main
 
 import (
-	elv "github.com/Elevator-System/elevator"
+	elv "github.com/dev-hartmann/mesosphere-elevator/elevator"
 )
 
 func main() {
